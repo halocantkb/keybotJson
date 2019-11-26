@@ -1,0 +1,157 @@
+{
+    "gmk": {
+        "olivia": {
+            "description": "A set made by olivia, made out of her love of rose gold. You may have seen her in various keyboard ic threads, asking for a rose gold variant. The first group buy was quite popular, selling over 350 units. While this may not seem like much, aftermarket prices soared.",
+            "icLink": "https://geekhack.org/index.php?topic=102914.0, https://geekhack.org/index.php?topic=102914.0",
+            "gbLink": "https://geekhack.org/index.php?topic=94903.0",
+            "runner": "olivia",
+            "img": "https://i.imgur.com/2Tb509n.jpg",
+            "date": "2018-03-28",
+            "price": "169.00"
+        },
+        "cafe": {
+            "description": "A set inspired by coffee, made by Langelandia. He wanted to make a set about coffee, however he didn't like the look of just brown coffee on a keyboard. However, when he saw the color of his black coffee, he was inspired.",
+            "icLink": "https://geekhack.org/index.php?topic=100820.0",
+            "gbLink": "https://geekhack.org/index.php?topic=102580.0",
+            "runner": "Langelandia",
+            "img": "https://i.imgur.com/co93lTm.jpg",
+            "date": "2019-10-01",
+            "price": "125.00"
+        },
+        "ashes": {
+            "description": "Based on volcanic ash, this set employs off-white hues and a monochromatic color scheme to draw the eye. Along with the set, are deskmats and novelties inspired by Dark Souls.",
+            "icLink": "https://geekhack.org/index.php?topic=102338.0",
+            "gbLink": "0",
+            "runner": "Tyson522",
+            "img": "https://i.imgur.com/dByxnkp.png",
+            "date": "N/A",
+            "price": "N/A"
+        },
+        "dracula": {
+            "description": "Based on the Dracula Theme for various IDEs, GMK Dracula by pikku-allu uses bluish-grey base color and mixed mods (similar to Oblivion, and Nord!) to draw attention. If you want a more basic style, the Nightmode kit has got you covered. This set was wildly popular, selling over 3000 base kits without extras.",
+            "icLink": "https://geekhack.org/index.php?topic=100727.0",
+            "gbLink": "https://geekhack.org/index.php?topic=102772.0",
+            "runner": "pikku-allu",
+            "img": "https://i.imgur.com/Zv7gIb2.png",
+            "date": "2019-10-04",
+            "price": "130.00"
+        },
+        "mizu": {
+            "description": "Based on the Water Tribe from Avatar.",
+            "icLink": "https://geekhack.org/index.php?topic=99235.0",
+            "gbLink": "https://geekhack.org/index.php?topic=100454.0",
+            "runner": "Rensuya",
+            "img": "https://matrixzj.github.io/assets/images/gmk-keycaps/mizu/rendering_pics/2.jpg",
+            "date": "2019-04-29",
+            "price": "135.00"
+        },
+        "bingsu": {
+            "description": "Themed around the Korean snack Bingsoo, or Patbingsu.",
+            "icLink": "https://geekhack.org/index.php?topic=101965",
+            "gbLink": "https://geekhack.org/index.php?topic=102936.0",
+            "runner": "Rise",
+            "img": "https://cdn.shopify.com/s/files/1/0012/3374/8043/files/Kendo-Bingsu-02.jpg?578",
+            "date": "2019-10-15",
+            "price": "130.00"
+        },
+        "coral": {
+            "description": "Benefiting the Coral Reef Alliance, GMK Coral is a set based around the 2019 Pantone Color Of The Year.",
+            "icLink": "https://geekhack.org/index.php?topic=101926",
+            "gbLink": "https://geekhack.org/index.php?topic=102849.0",
+            "runner": "HoodrowThrillson",
+            "img": "https://i.imgur.com/uzlsG0T.jpg",
+            "date": "2019-10-11",
+            "price": "129.99"
+        },
+        "alter": {
+            "description": "Based around the Fate/Stay Night character Saber Alter.",
+            "icLink": "https://geekhack.org/index.php?topic=102192.0",
+            "gbLink": "https://geekhack.org/index.php?topic=103138.0",
+            "runner": "Sifo",
+            "img": "https://i.imgur.com/1dMNvB2.png",
+            "date": "2019-11-01",
+            "price": "130.00"
+        },
+        "dmg": {
+            "description": "Based around the original GameBoy, this nostalgic set is sure to bring fond memories back to whoever sees it.",
+            "icLink": "https://geekhack.org/index.php?topic=97002.0",
+            "gbLink": "https://geekhack.org/index.php?topic=98153.msg2679125#msg2679125",
+            "runner": "futurecrime",
+            "img": "https://i.imgur.com/22a9XXq.jpg",
+            "date": "2018-11, 2019-11-01",
+            "price": "169.00, 149.00"
+        },
+        "9009": {
+            "description": "Colors taken from the classic Cherry keyboard G80-9009HAU.",
+            "icLink": "R1/2: N/A R3: https://geekhack.org/index.php?topic=101623.0",
+            "gbLink": "[R1](https://geekhack.org/index.php?topic=80434.0) [R2](https://geekhack.org/index.php?topic=91844.0) [R3](https://geekhack.org/index.php?topic=102259.0)",
+            "runner": "justnits (R1), janglad (R2/3)",
+            "img": "https://images.squarespace-cdn.com/content/v1/5a02c663268b961642ad2bbf/1563393628944-ZP7N4N3Q82CVKVC19NSM/ke17ZwdGBToddI8pDm48kPTrHXgsMrSIMwe6YW3w1AZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0k5fwC0WRNFJBIXiBeNI5fKTrY37saURwPBw8fO2esROAxn-RKSrlQamlL27g22X2A/Bauer_Top.jpg?format=1500w",
+            "date": "2016-03, 2017-10, 2019-09-01",
+            "price": "140.00, 148.87, 99.99"
+        },
+        "bento": {
+            "description": "Themed around the Japanese home-packed meal Bento.",
+            "icLink": "https://geekhack.org/index.php?topic=97855.0",
+            "gbLink": "https://geekhack.org/index.php?topic=99168.0",
+            "runner": "biip",
+            "img": "http://cdn.shopify.com/s/files/1/2772/6534/products/GMK_Bento_Render_Front_1200x1200.png?v=1548639448",
+            "date": "2019-02",
+            "price": "150.00"
+        },
+        "jamon": {
+            "description": "With a strikingly red colorscheme, GMK Jamón reflects the red and white of the breakfast meal jamón from Spain.",
+            "icLink": "https://geekhack.org/index.php?topic=95882.0",
+            "gbLink": "https://www.massdrop.com/buy/massdrop-x-zambumon-gmk-jamon-custom-keycap-set",
+            "runner": "Zambumon",
+            "img": "https://i.imgur.com/5m6IKHZ.jpg",
+            "date": "2019-02-04",
+            "price": "99.99"
+        },
+        "metropolis": {
+            "description": "With colored text on a dark blue background, GMK Metropolis brings back memories of the big city at night.",
+            "icLink": "https://geekhack.org/index.php?topic=98355.0",
+            "gbLink": "https://geekhack.org/index.php?topic=99962.0",
+            "runner": "Nephlock",
+            "img": "https://i.imgur.com/urEQ4aj.jpg",
+            "date": "2019-03",
+            "price": "135.00"
+        },
+        "miami": {
+            "description": "Based on the Miami colorscheme of bright pink on bright blue, ",
+            "icLink": "N/A",
+            "gbLink": "https://www.originativeco.com/products/miami",
+            "runner": "BunnyLake",
+            "img": "https://cdn.shopify.com/s/files/1/0267/1905/products/miami_1024x1024.jpg?v=1510181067",
+            "date": "2017-05",
+            "price": "135.00"
+        },
+        "striker": {
+            "description": "A tribute to the Japanese National Football team, this set features a monochromatic blue colorscheme and Hiragana sublegends for a striking(sorry!) keyset.",
+            "icLink": "https://geekhack.org/index.php?topic=96427.0",
+            "gbLink": "https://geekhack.org/index.php?topic=100387.0",
+            "runner": "Zambumon",
+            "img": "https://i.imgur.com/jKfPsLa.jpg",
+            "date": "2019-04-25",
+            "price": "100.00"
+        },
+        "modern dolch": {
+            "description": "A refresh of the classic Dolch colorway, GMK MoDo by Janglad employs greys and colorful accents to create a visually balanced set.",
+            "icLink": "https://geekhack.org/index.php?topic=96944.0",
+            "gbLink": "https://geekhack.org/index.php?topic=97134.0",
+            "runner": "Janglad",
+            "img": "https://images.squarespace-cdn.com/content/v1/56df43c437013b7f38833624/1557851709186-UYZO1RBDP7ITJCG4D9FB/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/X65_GMKMD.jpg",
+            "date": "2018-08",
+            "price": "140.00"
+        }
+    },
+    "template": {
+        "description": "",
+        "icLink": "",
+        "gbLink": "",
+        "runner": "",
+        "img": "",
+        "date": "",
+        "price": ""
+    }
+}
