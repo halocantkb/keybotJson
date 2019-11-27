@@ -152,6 +152,15 @@
             "img": "https://i.imgur.com/qcHGAmQ.png",
             "date": "N/A",
             "price": "N/A"
+        },
+        "b": {
+            "description": "A dead meme made into keycap form",
+            "icLink": "https://geekhack.org/index.php?topic=102959.0",
+            "gbLink": "0",
+            "runner": "shota_irl",
+            "img": "https://geekhack.org/index.php?action=dlattach;topic=102959.0;attach=229800;image",
+            "date": "N/A",
+            "price": "N/A"
         }
     },
     "template": {
