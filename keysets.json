@@ -145,7 +145,7 @@
             "price": "140.00"
         },
         "toxic": {
-            "description": "A rerun of the classic SA Toxic, now in Cherry profile. Using a green stripe atop a black colorscheme, this set feels like something you probably shouldn't have taken from that lab back in 2005 that you and your buddy Jeff found while exploring the woods.",
+            "description": "A rerun of the classic DCS Toxic, now in Cherry profile. Using a green stripe atop a black colorscheme, this set feels like something you probably shouldn't have taken from that lab back in 2005 that you and your buddy Jeff found while exploring the woods.",
             "icLink": "https://geekhack.org/index.php?topic=102473.0",
             "gbLink": "0",
             "runner": "T0mbr3y",
@@ -159,6 +159,24 @@
             "gbLink": "0",
             "runner": "shota_irl",
             "img": "https://geekhack.org/index.php?action=dlattach;topic=102959.0;attach=229800;image",
+            "date": "N/A",
+            "price": "N/A"
+        },
+        "yugo": {
+            "description": "Inspired by the classic car the Yugo, GMK Yugo uses light yellow base color, red accents, and a forced ISO layout to really show the unreliabilty of the Yugo.",
+            "icLink": "https://geekhack.org/index.php?topic=102130.0",
+            "gbLink": "https://geekhack.org/index.php?topic=103263.0",
+            "runner": "YugoMK",
+            "img": "https://i.imgur.com/1awlB8j.png",
+            "date": "2019-11-04",
+            "price": "119.99"
+        },
+        "honk": {
+            "description": "honk honk",
+            "icLink": "https://geekhack.org/index.php?topic=103291.0",
+            "gbLink": "0",
+            "runner": "Zambumon",
+            "img": "https://i.imgur.com/KTVBIb3.jpg",
             "date": "N/A",
             "price": "N/A"
         }
