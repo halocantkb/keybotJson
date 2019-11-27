@@ -143,6 +143,15 @@
             "img": "https://images.squarespace-cdn.com/content/v1/56df43c437013b7f38833624/1557851709186-UYZO1RBDP7ITJCG4D9FB/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/X65_GMKMD.jpg",
             "date": "2018-08",
             "price": "140.00"
+        },
+        "toxic": {
+            "description": "A rerun of the classic SA Toxic, now in Cherry profile. Using a green stripe atop a black colorscheme",
+            "icLink": "https://geekhack.org/index.php?topic=102473.0",
+            "gbLink": "0",
+            "runner": "T0mbr3y",
+            "img": "https://i.imgur.com/qcHGAmQ.png",
+            "date": "N/A",
+            "price": "N/A"
         }
     },
     "template": {
