@@ -215,7 +215,17 @@
             "img": "https://cdn.shopify.com/s/files/1/0055/3920/1127/products/qHF3g5c_1024x1024.png",
             "date": "2019-8-10",
             "price": "135.00"
+        },
+        "space cadet": {
+            "description": "The Space Cadet keyboard (created by Tom Knight) was lauded for its ability to recreate even the most obscure symbols—and it could produce a remarkable 8,000 different characters if you memorized the right combinations. Now, thanks to Oblotzky (who you may know from the Oblivion and Green Screen keycap sets), you can get the original Space Cadet colorway on a keyboard of your own.",
+            "icLink": "https://geekhack.org/index.php?topic=94003.0",
+            "gbLink": "https://geekhack.org/index.php?topic=96869.0",
+            "runner": "Oblotzky",
+            "img": "https://i.imgur.com/tN6S3iS.jpg",
+            "date": "2018-08-03",
+            "price": "139.99"
         }
+
     },
     "template": {
         "description": "",
@@ -224,6 +234,6 @@
         "runner": "",
         "img": "",
         "date": "",
-        "price": ""
+        "price": "139.99"
     }
 }
