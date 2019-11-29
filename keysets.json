@@ -188,6 +188,15 @@
             "img": "https://geekhack.org/index.php?action=dlattach;topic=97198.0;attach=205382;image",
             "date": "2019-6-22",
             "price": "155.00"
+        },
+        "dolch": {
+            "description": "",
+            "icLink": "N/A",
+            "gbLink": "https://geekhack.org/index.php?topic=58608.0",
+            "runner": "",
+            "img": "",
+            "date": "",
+            "price": ""
         }
     },
     "template": {
