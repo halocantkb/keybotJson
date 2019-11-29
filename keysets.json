@@ -206,7 +206,16 @@
             "img": "https://i.imgur.com/zbcvUO4.png",
             "date": "2019-6-1",
             "price": "125.00"
-        }
+        },
+        "froyo": {
+            "description": "Placeholder for you to fill out",
+            "icLink": "https://geekhack.org/index.php?topic=100882.0",
+            "gbLink": "https://geekhack.org/index.php?topic=100882.0",
+            "runner": "The_Royal",
+            "img": "https://cdn.shopify.com/s/files/1/0055/3920/1127/products/qHF3g5c_1024x1024.png",
+            "date": "2019-8-10",
+            "price": "135.00"
+        },
     },
     "template": {
         "description": "",
