@@ -197,6 +197,15 @@
             "img": "",
             "date": "",
             "price": ""
+        },
+        "olive": {
+            "description": "From the same person who made GMK Olivia, GMK Olive is a faded green set inspired by Olive.",
+            "icLink": "https://geekhack.org/index.php?topic=100339.0",
+            "gbLink": "https://geekhack.org/index.php?topic=100983.0",
+            "runner": "olivia",
+            "img": "https://i.imgur.com/zbcvUO4.png",
+            "date": "2019-6-1",
+            "price": "125.00"
         }
     },
     "template": {
