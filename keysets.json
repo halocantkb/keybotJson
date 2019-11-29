@@ -216,15 +216,14 @@
             "date": "2019-8-10",
             "price": "135.00"
         }
+    },
+    "template": {
+        "description": "",
+        "icLink": "",
+        "gbLink": "",
+        "runner": "",
+        "img": "",
+        "date": "",
+        "price": ""
     }
-},
-"template": {
-    "description": "",
-    "icLink": "",
-    "gbLink": "",
-    "runner": "",
-    "img": "",
-    "date": "",
-    "price": ""
-}
 }
