@@ -208,7 +208,7 @@
             "price": "125.00"
         },
         "froyo": {
-            "description": "With colored mods on a solid white keycolor, GMK FroYo uses playful colors to accent a mostly bland colorsceheme.",
+            "description": "With colored mods on a solid white keycolor, GMK FroYo uses playful colors to accent a mostly bland colorscheme.",
             "icLink": "https://geekhack.org/index.php?topic=100882.0",
             "gbLink": "https://geekhack.org/index.php?topic=100882.0",
             "runner": "The_Royal",
@@ -224,8 +224,16 @@
             "img": "https://i.imgur.com/tN6S3iS.jpg",
             "date": "2018-08-03",
             "price": "139.99"
+        },
+        "ta90": {
+            "description": "The original Triumph Adler Dario 286's keycaps would run for over 1000$. Collectors have been wanting to have something similar since forever, and the original TA90 GB delivered. However, since the colors did not match, Dr. Click ran his own GMK TA90 GB colormatched to Dr.Dick's Dario 986.",
+            "icLink": "https://geekhack.org/index.php?topic=95291.0",
+            "gbLink": "https://geekhack.org/index.php?topic=96387.0",
+            "runner": "Dr. Click",
+            "img": "https://cdn.shopify.com/s/files/1/1994/3097/products/gmkta-1_1280x800.jpg?v=1531350896",
+            "date": "2018-6-30",
+            "price": "179.99"
         }
-
     },
     "template": {
         "description": "",
@@ -234,6 +242,6 @@
         "runner": "",
         "img": "",
         "date": "",
-        "price": "139.99"
+        "price": ""
     }
 }
